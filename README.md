@@ -9,11 +9,13 @@ I am a die-cast model car collector. I have nearlly 500 model cars collction in 
 - **Conceptual Design**
 A Java program that lined to database and able to return the object that fits the category. And the user are making request by category in order to find objects that are in common. The project is important since it can increase the porductivity of a person, especially when the person have a lot of objects that need to be categorized.
 - **Project Relevance**
-This database can be used on various of applications including educationl purpose. For instance, program designer can categorize their projects, instructors are able to find students' submisstion by referencing category...
+The reason why this data base project is relevent to the objective of software design course is that it involves object oriented programing skills, TTD, version contorl and debugging. After building this project, I am able to learn a lot details in software design. On top of that, This database can be used on various of applications including educationl purpose. For instance, program designer can categorize their projects, instructors are able to find students' submisstion by referencing category. 
 
 - **Reference**
 http://tomicadas.on.coocan.jp/
+
 http://tomica.minibird.jp/
+
 https://www.hobbydb.com/
 
 
