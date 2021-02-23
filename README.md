@@ -1,6 +1,4 @@
-﻿## CIS 3206 Final Project Proposal
-
-**Diecast DB**
+﻿## CIS 3206 Final Project Proposal-Diecast DB
 
 - **Project Abstract**
 The purpose of this project is to build a database of diecast model car collection. This webpage will let user input the detailed information about their collection and categroized each car. So that the usere can have easy access to their list of collection.
