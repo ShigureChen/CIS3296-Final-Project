@@ -18,6 +18,7 @@ I decided to use WordPress as a user interface of website and MariaDB as databas
 The reason why this data base project is relevant to the objective of software design course is that it involves object-oriented programing skills, TTD, version control and debugging. After building this project, I can learn a lot of details in software design. On top of that, this database can be used on various of applications including educational purpose. For instance, program designer can categorize their projects, instructors are able to find students' submission by referencing category.
 
 - **Reference**
+
 http://tomicadas.on.coocan.jp/
 
 http://tomica.minibird.jp/
